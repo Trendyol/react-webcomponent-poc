@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IPCheck /> should render and match the snapshot 1`] = `
+<Context.Provider
+  value={null}
+>
+  <IPCheck
+    loading={true}
+    status={
+      Object {
+        "ip": "127.0.0.1",
+        "success": true,
+        "time": 173,
+      }
+    }
+    store={
+      Object {
+        "clearActions": [Function],
+        "dispatch": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  />
+</Context.Provider>
+`;

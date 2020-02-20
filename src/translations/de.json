@@ -1,0 +1,12 @@
+{
+  "editor.components.ip-check.loadingText": "IP überprüfen...",
+  "editor.components.ip-check.failedText": "Ihre IP konnte nicht abgerufen werden. Versuchen Sie, Adblock zu deaktivieren. Letzte Überprüfung: {time}",
+  "editor.components.ip-check.successText": "Ihre IP: {ip} - Letzte Überprüfung: {time}",
+  "editor.components.ip-check.switchButtonText": "Seite ändern",
+  "editor.components.counter.helloText": "Gegenbeispiel",
+  "editor.components.counter.switchButtonText": "Seite ändern",
+  "editor.components.counter.incrementButtonText": "Zuwachs",
+  "editor.components.counter.decrementButtonText": "Dekrementieren",
+  "editor.components.counter.setButtonText": "Einstellen",
+  "editor.components.counter.countText": "Aktuelle Zählung ist: {count}"
+}

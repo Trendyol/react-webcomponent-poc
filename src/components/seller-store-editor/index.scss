@@ -1,0 +1,39 @@
+.editor {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f2f7;
+
+  &__content {
+    color: white;
+    border-radius: 5px;
+    background-color: #273142;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    user-select: none;
+
+    button {
+      margin: 2px 0;
+      background-color: orange;
+      font-size: 14px;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      width: 200px;
+      height: 50px;
+      cursor: pointer;
+    }
+
+    span {
+      font-weight: bold;
+      margin: 30px 0;
+    }
+  }
+}
